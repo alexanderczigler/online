@@ -10,6 +10,8 @@
   --text-color: #000000;
   --text-meta-color: rgba(0, 77, 128, 0.6);
   --heading-color: #004d80;
+  --link-color: #004d80;
+  --link-hover-color: #002e4d;
 }
 
 body {
