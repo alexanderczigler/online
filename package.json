@@ -1,0 +1,16 @@
+{
+  "name": "online-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build:cv",
+    "build:cv": "cd apps/cv && npm run build"
+  },
+  "keywords": [],
+  "author": "Alexander Czigler",
+  "license": "ISC",
+  "description": "Monorepo for my online presence.",
+  "workspaces": [
+    "apps/*"
+  ]
+}
