@@ -28,13 +28,19 @@ Around 1997 I got my own PC and dialup at home. Dialup was expensive and I was o
 
 ## Professional experience
 
+### Solution Developer
+> 2023-present | seb
+
+My role at SEB involves both software development and automation/infrastructure work. I am working in a Node.js/Typescript stack with a wide range of integrations and dependencies; Google Pub/Sub, socket.io, OpenSearch, PostGRE SQL, Redis as well as legacy integrations with older systems. I am building and maintaining two different systems in this stack; one being the backend of a mobile app and the other a system for providing company and instrument data and serve it over Pub/Sub and and a RESTful API.
+
+Aside from building software I am also building and maintaining the cloud setups for both projects. I am working in GCP mainly using Terraform, kubernetes and FluxCD.
+
 ### Backend developer & Partner
 > 2013-2023 | iteam solutions
 
 Working at Iteam has been a long journey filled with many exciting projects. I have had the privilege to work with some of the most skilled and intelligent people I have ever met in my life. For each year that has passed I have learned a lot and grown both as a technologist and as a human being.
 
 In most project my role and responsibilities have been those of a developer but there are exceptions. As I am very interested in DevOps and Developer Experience I am usually the one doing the ground work of setting up servers, clusters as well as automating tests and deployments in CD/CD pipelines. In order to learn more and gain perspective of the developer role, I have also worked a bit with UX Research.
-
 
 ### System developer
 > 2010-2013 | mogul
