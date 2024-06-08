@@ -32,6 +32,6 @@
   },
   "type": "module",
   "dependencies": {
-    "@fontsource/ubuntu": "^5.0.13"
+    "@fontsource/nunito": "^5.0.18"
   }
 }

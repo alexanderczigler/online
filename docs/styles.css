@@ -27,7 +27,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Nunito", sans-serif;
   background-color: var(--background-color);
   color: var(--text-color);
   padding: 20px;

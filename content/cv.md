@@ -22,7 +22,6 @@ Another paragraph.
 
 Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text about Iteam. 
 
-`Agile, Code, DevOps, DevOps Culture`
 
 ### System developer
 > 2010-2013 | mogul
@@ -30,7 +29,6 @@ Some text about Iteam. Some text about Iteam. Some text about Iteam. Some text a
 Some text about Mogul.
 Another paragraph.
 
-`Agile, Code, DevOps, DevOps Culture`
 
 ## Projects
 
