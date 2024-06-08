@@ -94,9 +94,7 @@ li a:hover {
   li a {
     display: block;
     max-width: 90%;
-    /* Limit the maximum width */
     margin: 0 auto;
-    /* Center the links */
     font-size: 1.2em;
     padding: 15px 25px;
     border-radius: 5px;
