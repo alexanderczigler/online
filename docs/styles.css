@@ -48,8 +48,8 @@ li a:visited {
   text-decoration: none;
 }
 
-li a:focus {
-  outline: 2px solid var(--link-focus-outline);
+li a:hover {
+  font-weight: 400;
 }
 
 @media (max-width: 600px) {
