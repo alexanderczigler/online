@@ -4,7 +4,7 @@
 I was born in 1985 and grew up in Umeå, Sweden. At the age of 22 I dropped out of college and
 moved to Stockholm to work as a consultant in the tech industry. By then I had realised that I
 learn best by doing and I knew I had a passion for working with tech. Working in the complex
-domain is where I feel most at home because that is where the potential of learning is highest
+domain is where I feel most at home because that is where the potential of learning is highest.
 
 ### Professional background
 
