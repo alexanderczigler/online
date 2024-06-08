@@ -54,6 +54,15 @@ At Hitone/Pdb I worked as a Business Intelligence (BI) consultant for a number o
 
 ## Projects
 
+### Developer, DevOps Engineeer
+> 2022-2023 | centrum för näringslivshistoria
+
+I built a microservice ecosystem for traversing data in Comprima/Documaster and doing OCR scanning of attachments. The metadata and OCR text was indexed in ElasticSearch and I built a RESTful API with a website that provides a fast search functionality that covered both metadata and full text search in attachment OCR text.
+
+I also setup and maintained the Kubernetes cluster for running the solution. The cluster was comprised of a number of virtual servers and orchestrated with K3S, using FluxCD and GitHub for GitOps and automating deployments.
+
+The result is available at [arkivet.naringslivshistoria.se](https://arkivet.naringslivshistoria.se/) (Swedish).
+
 ### Technology Specialist
 > 2020–2023 | VINNOVA, LTU, HELSINGBORG STAD
 
