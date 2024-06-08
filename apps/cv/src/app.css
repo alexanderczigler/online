@@ -1,11 +1,15 @@
+/*
+ * https://www.colorhexa.com/004d80
+ */
+
 @import '@fontsource/nunito';
 
 :root {
   --font-sans: 'Nunito', sans-serif;
   --background-color: #f5f5f5;
-  --text-color: rgba(0, 0, 0);
-  --text-meta-color: rgba(0, 0, 0, 0.6);
-  --heading-color: rgba(0, 77, 128);
+  --text-color: #000000;
+  --text-meta-color: rgba(0, 77, 128, 0.6);
+  --heading-color: #004d80;
 }
 
 body {

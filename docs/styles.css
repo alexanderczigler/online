@@ -12,9 +12,9 @@
   :root {
     --background-color: #f5f5f5;
     --text-color: #000000;
-    --heading-color: #006064;
-    --link-color: #006064;
-    --link-hover-color: #004d4d;
+    --heading-color: #004d80;
+    --link-color: #004d80;
+    --link-hover-color: #002e4d;
     --link-focus-outline: #000000;
     --link-background-color: rgba(0, 0, 0, 0.1);
   }
