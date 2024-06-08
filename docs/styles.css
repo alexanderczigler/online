@@ -17,6 +17,8 @@ body {
   font-family: "Ubuntu", sans-serif;
   background-color: var(--background-color);
   color: var(--text-color);
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 h1 {
@@ -25,6 +27,7 @@ h1 {
   font-weight: 400;
   font-style: normal;
   color: var(--heading-color);
+  font-size: 2em;
 }
 
 ul {
@@ -45,10 +48,36 @@ li a:visited {
   text-decoration: none;
 }
 
-li a:hover {
-  color: var(--link-hover-color);
-}
-
 li a:focus {
   outline: 2px solid var(--link-focus-outline);
+}
+
+@media (max-width: 600px) {
+  body {
+    justify-content: flex-start;
+    padding: 20px 10px;
+  }
+
+  h1 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+
+  ul {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  li a {
+    font-size: 1.2em;
+    padding: 15px 25px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+
+  li a:hover {
+    color: var(--link-hover-color);
+    background-color: rgba(255, 255, 255, 0.1);
+  }
 }
