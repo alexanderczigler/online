@@ -1,0 +1,54 @@
+:root {
+  --background-color: #2f4f4f;
+  --text-color: #e0e0e0;
+  --heading-color: #f0f0f0;
+  --link-color: #d1d1d1;
+  --link-hover-color: #ffffff;
+  --link-focus-outline: #ffffff;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: "Ubuntu", sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--heading-color);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+li {
+  margin: 0;
+  font-weight: 300;
+}
+
+li a,
+li a:visited {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+li a:hover {
+  color: var(--link-hover-color);
+}
+
+li a:focus {
+  outline: 2px solid var(--link-focus-outline);
+}
