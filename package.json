@@ -4,7 +4,9 @@
   "main": "index.js",
   "scripts": {
     "build": "npm run build:cv",
-    "build:cv": "cd apps/cv && npm run build"
+    "build:cv": "cd apps/cv && npm run build",
+    "lint": "npm run lint:cv",
+    "lint:cv": "cd apps/cv && npm run lint"
   },
   "keywords": [],
   "author": "Alexander Czigler",
