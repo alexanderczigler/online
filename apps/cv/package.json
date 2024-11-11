@@ -32,6 +32,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource/nunito": "^5.0.18"
+		"@fontsource/nunito": "^5.1.0"
 	}
 }
