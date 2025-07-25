@@ -14,5 +14,8 @@
   "description": "Monorepo for my online presence.",
   "workspaces": [
     "apps/*"
-  ]
+  ],
+  "devDependencies": {
+    "@sveltejs/adapter-vercel": "^5.8.1"
+  }
 }
